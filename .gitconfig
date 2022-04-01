@@ -1,0 +1,5 @@
+ [lfs]
+    url = "https://localhost:9999/"
+
+  [http]
+    sslverify = false
